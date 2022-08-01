@@ -7,7 +7,7 @@
 - [Introduction](#Introduction)
 - [How to run](#How-to-run)
 - [Usage](#Usage)
-- [Reference table](#Reference-table)
+- [Reference tables](#Reference-table)
 
 ## Introduction
 
@@ -69,7 +69,7 @@ These functions `is*` checks c and returns nonzero if the character c falls into
 | [ft_strncmp](42-Libft/ft_strncmp.c) | It is similar to strcmp() function, except it only compares the first (at most) n bytes of s1 and s2. |
 | [ft_memchr](42-Libft/ft_memchr.c) | Scans the initial n bytes of the memory area pointed by s for the first instance of c. Both c and the bytes of the memory area pointed by s are interpreted as unsigned char. |
 | [ft_memcmp](42-Libft/ft_memcmp.c) | 	Compares the first n bytes (each interpreted as unsigned char) of the memory areas s1 and s2. |
-| [ft_strnstr](42-Libft/ft_strnstr.c) | Locates the first occurrence of the null-terminated string little in the string big, where not more than len characters are searched. Characters that appear after a `\0' character are not searched. If little is an empty string, big is returned; if little occurs nowhere in big, NULL is returned; otherwise a pointer to the first character of the first occurrence of little is returned. |
+| [ft_strnstr](42-Libft/ft_strnstr.c) | Locates the first occurrence of the null-terminated string little in the string big, where not more than len characters are searched. Characters that appear after a '\0' character are not searched. If little is an empty string, big is returned; if little occurs nowhere in big, NULL is returned; otherwise a pointer to the first character of the first occurrence of little is returned. |
 | [ft_strdup](42-Libft/ft_strdup.c) | 	Returns a pointer to a new string which is a duplicate of the string s. |
 
 ### Functions from `<stdlib.h>`
