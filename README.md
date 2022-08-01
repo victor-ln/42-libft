@@ -7,7 +7,7 @@
 - [Introduction](#Introduction)
 - [How to run](#How-to-run)
 - [Usage](#Usage)
-- [Reference tables](#Reference-table)
+- [Reference tables](#Reference-tables)
 
 ## Introduction
 
